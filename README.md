@@ -17,7 +17,7 @@ Passionné d'informatique avec une expertise en HTML, CSS, JavaScript, React Nat
 
 - **[Integrateur wordpress - Integrateur web en accessibilité numérique - Formateur Integrateur web en accessibilité numérique - Responsable technique accessibilité numérique - Specialiste Operateur en accessibilité numérique - Formateur Operateur en accessibilité numérique] - [The23creative]**  
   *Septembre 2023 à ce jour - ...*  
-  - Integration de site web en se reference au maquette creer par les designer sur figma.
+  - Integration de site web à partir des maquettes creer par les designer sur figma.
   - Responsable de l'equipe technique sur l'integration ,integration web en utilisant des fichier pdf comme maquette et rendre le site accessible et former les nouvelles recrue au meme tache.
   - Lead technique en tant qu'opérateur en accessibilité numerique qui se definit par le balisage des PDF pour les rendre accessible
   - Former les nouvelles recrue pour le poste d'opérateur en accessibilité numérique
